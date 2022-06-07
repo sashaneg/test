@@ -1,0 +1,8 @@
+{
+    "name": "sashaneg/test",
+    "description": "test",
+    "type": "project",
+    "require": {
+        "php": ">=7.0"
+    }
+}
